@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calcola</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="uno">1</string>
+    <string name="due">2</string>
+    <string name="tre">3</string>
+    <string name="quattro">4</string>
+    <string name="cinque">5</string>
+    <string name="sei">6</string>
+    <string name="sette">7</string>
+    <string name="otto">8</string>
+    <string name="nove">9</string>
+    <string name="zero">0</string>
+    <string name="piu">+</string>
+    <string name="meno">-</string>
+    <string name="mul">*</string>
+    <string name="div">/</string>
+    <string name="virgola">,</string>
+    <string name="uguale">=</string>
+    <string name="inverti">+ / -</string>
+    <string name="cancella">CANC</string>
+
+</resources>
